@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno Ricardo</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on **data base and automation projects using SQL and python with machine learning**
+- 🔭 I’m currently graduating on **Computer Science in UERJ(Universidade Estadual do Rio de Janeiro)**
 
-- 🌱 I’m currently learning **Java script and it's framworks for mobile projects**
+- 🌱 I’m currently learning **Javascript and it's framworks for mobile projects**
 
 - 👯 I’m looking to collaborate on **mobile projects**
 
