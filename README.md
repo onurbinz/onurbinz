@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently graduating on **Computer Science in UERJ(Universidade Estadual do Rio de Janeiro)**
 
-- 🌱 I’m currently learning **Javascript and it's framworks for mobile projects**
+- 🌱 I’m currently learning **Javascript and it's framworks for backend projects**
 
-- 👯 I’m looking to collaborate on **mobile projects**
+- 👯 I’m looking to collaborate on **backend projects**
 
 - 💬 Ask me about **Python, SQL, Excel, Power BI**
 
